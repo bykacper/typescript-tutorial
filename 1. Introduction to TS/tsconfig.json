@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",    // Folder, do którego trafią pliki JavaScript
+    "rootDir": "./src",    // Folder z plikami TypeScript
+    "strict": true         // Włączenie trybu ścisłej kontroli
+  }
+}
